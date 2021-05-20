@@ -27,7 +27,7 @@ li {
 }
 
 .header-list li {
-  float: left;
+  float: right;
   font-size: 30px;
   padding: 20px 15px;
 }

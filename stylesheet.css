@@ -2,6 +2,9 @@ body {
   font-family: "Avenir Next";
 }
 
+.header {
+  color: black;
+}
 
 .header p {
   margin-bottom: 30px;

@@ -25,9 +25,12 @@ li {
   font-size: 36px;
   padding: 20px 30px;
 }
+.header-list {
+  float: right;
+}
 
 .header-list li {
-  float: right;
+  float: left;
   font-size: 30px;
   padding: 20px 15px;
 }
